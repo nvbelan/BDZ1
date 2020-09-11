@@ -1,0 +1,36 @@
+[{
+  "list": [
+    {
+      "id": "001",
+      "delinquency": {
+        "year": 1997,
+        "month": 5,
+        "day": 14
+      },
+      "codeMoney": "RUB",
+      "fullname": "Macdonalds"
+    },
+    {
+      "id": "002",
+      "delinquency": {
+        "year": 1995,
+        "month": 4,
+        "day": 3
+      },
+      "codeMoney": "EU",
+      "fullname": "Macdonalds"
+    }
+  ],
+  "smallname": "MAC",
+  "fullName": "Macdonalds",
+  "location": "st.peterburg",
+  "telephone": "77777",
+  "INN": "1111",
+  "OGRN": "2111112",
+  "date": {
+    "year": 1995,
+    "month": 4,
+    "day": 3
+  }
+},{"list":[{"id": "003", "delinquency": {"year":2009, "month": 9, "day": 10}, "codeMoney": "RUB", "fullname": "Kentyki-chiken"}, {"id": "004", "delinquency": {"year": 1997, "month":5, "day": 14}, "codeMoney": "RUB", "fullname": "Kentyki-chiken"}], "smallname": "KFC", "fullName": "Kentuky-chicken", "location": "Moscow", "telephone": "66666", "INN": "2222", "OGRN": "2222222", "date": {"year":2008, "month": 5, "day": 14}}, {"list":[{"id": "005", "delinquency": {"year":1997, "month": 5, "day": 14}, "codeMoney": "USD",  "fullname": "Burger King"}, {"id": "006", "delinquency": {"year": 2222, "month":5, "day": 14}, "codeMoney": "EU", "fullname": "Burger King"}], "smallname": "BK", "fullName": "Burger King", "location": "Yeysk", "telephone": "55555", "INN": "3333", "OGRN": "", "date": {"year":2009, "month": 1, "day": 10}
+}]
